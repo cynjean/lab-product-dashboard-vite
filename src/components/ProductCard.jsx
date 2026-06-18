@@ -9,11 +9,9 @@ const ProductCard = ({ product, removeProduct }) => {
       : "outOfStockClass"
     } 
     >
-      {/* TODO: Display product name */}
+      {/* Display the product details passed down from ProductList. */}
       <h3>{product.name}</h3>
-      {/* TODO: Display product price */}
       <p>Price: {product.price}</p>
-      {/* TODO: Show if the product is in stock or out of stock */}
       <p>{product.inStock ? "In Stock" : "Out of Stock"}</p>
 
       <button onClick={() => removeProduct(product.id)}>

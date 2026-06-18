@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" role="img" aria-label="Screenshot of the product dashboard showing three products">
+  <rect width="960" height="560" fill="#f4f4f4"/>
+  <text x="480" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#202124">Product Dashboard</text>
+  <g font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
+    <rect x="292" y="108" width="104" height="42" rx="6" fill="#ffffff" stroke="#c8c8c8"/>
+    <text x="344" y="135" fill="#202124">All Products</text>
+    <rect x="414" y="108" width="96" height="42" rx="6" fill="#ffffff" stroke="#c8c8c8"/>
+    <text x="462" y="135" fill="#202124">In Stock</text>
+    <rect x="528" y="108" width="126" height="42" rx="6" fill="#ffffff" stroke="#c8c8c8"/>
+    <text x="591" y="135" fill="#202124">Out of Stock</text>
+  </g>
+  <g font-family="Arial, sans-serif">
+    <rect x="180" y="190" width="600" height="88" fill="#ffffff" stroke="#cccccc"/>
+    <text x="212" y="226" font-size="24" font-weight="700" fill="#202124">Laptop</text>
+    <text x="212" y="254" font-size="17" fill="#202124">Price: $999</text>
+    <text x="410" y="254" font-size="17" fill="#176b36">In Stock</text>
+    <rect x="668" y="214" width="80" height="36" rx="5" fill="#ffffff" stroke="#b8b8b8"/>
+    <text x="708" y="237" text-anchor="middle" font-size="15" fill="#202124">Remove</text>
+    <rect x="180" y="302" width="600" height="88" fill="#d3d3d3" stroke="#b8b8b8" opacity="0.75"/>
+    <text x="212" y="338" font-size="24" font-weight="700" fill="#202124">Phone</text>
+    <text x="212" y="366" font-size="17" fill="#202124">Price: $699</text>
+    <text x="410" y="366" font-size="17" fill="#8a1f11">Out of Stock</text>
+    <rect x="668" y="326" width="80" height="36" rx="5" fill="#ffffff" stroke="#9f9f9f"/>
+    <text x="708" y="349" text-anchor="middle" font-size="15" fill="#202124">Remove</text>
+    <rect x="180" y="414" width="600" height="88" fill="#ffffff" stroke="#cccccc"/>
+    <text x="212" y="450" font-size="24" font-weight="700" fill="#202124">Tablet</text>
+    <text x="212" y="478" font-size="17" fill="#202124">Price: $499</text>
+    <text x="410" y="478" font-size="17" fill="#176b36">In Stock</text>
+    <rect x="668" y="438" width="80" height="36" rx="5" fill="#ffffff" stroke="#b8b8b8"/>
+    <text x="708" y="461" text-anchor="middle" font-size="15" fill="#202124">Remove</text>
+  </g>
+</svg>

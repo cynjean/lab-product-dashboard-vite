@@ -40,9 +40,9 @@ const removeProduct = (id) => {
       <button onClick={() => setFilter("outOfStock")}>
         Out of Stock
       </button>
-      {/* TODO: Render the ProductList component and pass filtered products */}
+      {/* Pass the filtered list so the buttons control which products are shown. */}
       <ProductList 
-      products={products}
+      products={filteredProducts}
       removeProduct={removeProduct} 
       />
     </div>
